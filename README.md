@@ -1,4 +1,4 @@
-![Header](./github-header-images.png)
+![Header](./header.png)
 -----
 ###  🔭 I’m currently working on ... looking for work!😱 🆘
 
